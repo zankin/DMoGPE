@@ -1,0 +1,10 @@
+numpy
+matplotlib
+sklearn
+scipy
+tensorflow
+keras
+GPy
+tqdm
+seaborn
+autokeras
